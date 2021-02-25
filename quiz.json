@@ -1,0 +1,32 @@
+{
+   "ques" : [
+    ". Which is the special symbol used in python to add comments?",
+    ". Syntax error in python is detected by _________at _______",
+    ". Which one of the following has the highest precedence in the expression?",
+    ". The format function, when applied on a string returns :",
+    ". Which statement is correct?",
+    ". What is the maximum possible length of an identifier?",
+    ". Who developed the Python language?",
+    ". In which year was the Python language developed?",
+    ". In which language is Python written?",
+    ". Which one of the following is the correct extension of the Python file?"
+    ],
+
+    "options" : [
+    ["$", "//", "/*...*/", "#"],
+    ["compiler/ compile time","interpreter/ run time","compiler/ run time","interpreter/ compile time"],
+    ["Addition", "Multiplication", "Exponential", "Parentheses"],
+    ["list","bool","str","int"],
+    ["List is mutable & Tuple is immutable", "List is immutable & Tuple is mutable", "Both are Mutable", "Both are Immutable"],
+    ["16","32","64","None"],
+    ["Zim Den","Guido Van Rossum","Niene Stom","Wick Van Rossum"],
+    ["1995","1972","1981","1989"],
+    ["English","PHP","C","All the above"],
+    [".py",".python",".p","None"]
+
+    ],
+
+    "ans" : [ 4, 2, 4, 3, 1, 4, 2, 4, 3, 1],
+    "rightans" : ["#","interpreter/ run time","Parentheses","str","List is mutable & Tuple is immutable","None","Guido Van Rossum","1989","C",".py"]
+
+}
